@@ -1,6 +1,6 @@
-# Reading-Habits-vs-Income-Analysis
+# Reading Habits vs Income Analysis
 
-<u>**Analysis**</u>: [Reading Habits vs Income Analysis](https://github.com/dannyjimenez98/Reading-Habits-vs-Income-Analysis/blob/91060b03eacba6055966328a4d8c7b198fb263ca/Reading-vs-Income-Analysis.ipynb)
+<u>**Code and Analysis**</u>: [Reading Habits vs Income](https://github.com/dannyjimenez98/Reading-Habits-vs-Income-Analysis/blob/91060b03eacba6055966328a4d8c7b198fb263ca/Reading-vs-Income-Analysis.ipynb)
 
 ### Description
 Being that many of the world's wealthiest people read frequently, this analysis attempts to uncover a potential relationship between reading habits and annual income, as well as find other possible factors that may link them together.
