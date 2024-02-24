@@ -1,6 +1,6 @@
 # Reading Habits vs Income Analysis
 
-<u>**Code**</u>: [Reading-vs-Income-Analysis.ipynb](https://github.com/dannyjimenez98/Reading-Habits-vs-Income-Analysis/blob/91060b03eacba6055966328a4d8c7b198fb263ca/Reading-vs-Income-Analysis.ipynb)
+<u>**Code**</u>: [Reading-vs-Income-Analysis.ipynb](https://github.com/dannyjimenez98/Reading-Habits-vs-Income-Analysis/blob/91060b03eacba6055966328a4d8c7b198fb263ca/Reading-vs-Income-Analysis.ipynb)  
 <u>**SQL Script**</u>: [reading_habits_vs_income.sql](https://github.com/dannyjimenez98/Reading-Habits-vs-Income-Analysis/blob/e34bbe92ca798c2f7eb271e4c7128892a9ec8059/reading_habits_vs_income.sql)
 
 ### Description
